@@ -1,0 +1,24 @@
+{
+	"position": [
+		-50,
+		-130
+	],
+	"dialogue_pos": "left",
+	"scale": 1,
+	"image": "gf-idle",
+	"animations": [
+		{
+			"loop_offsets": [
+				0,
+				0
+			],
+			"anim": "idle",
+			"idle_offsets": [
+				0,
+				0
+			],
+			"loop_name": "gf-idle idle",
+			"idle_name": "gf-idle idle"
+		}
+	]
+}

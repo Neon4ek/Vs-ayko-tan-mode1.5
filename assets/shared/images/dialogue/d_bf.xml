@@ -1,0 +1,6 @@
+<?xml version='1.0' encoding='utf-8'?>
+<TextureAtlas imagePath="d_bf.png"><SubTexture name="d_bf idle0000" x="0" y="0" width="678" height="700" frameX="0" frameY="0" frameWidth="678" frameHeight="700" />
+<SubTexture name="d_bf wtf0000" x="678" y="0" width="678" height="700" frameX="0" frameY="0" frameWidth="678" frameHeight="700" />
+<SubTexture name="d_bf happi0000" x="0" y="700" width="678" height="700" frameX="0" frameY="0" frameWidth="678" frameHeight="700" />
+<SubTexture name="d_bf disap0000" x="678" y="700" width="678" height="700" frameX="0" frameY="0" frameWidth="678" frameHeight="700" />
+</TextureAtlas>

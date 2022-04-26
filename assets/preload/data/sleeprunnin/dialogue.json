@@ -1,0 +1,46 @@
+{
+	"dialogue": [
+		{
+			"expression": "happy",
+			"text": "Well, you know, it was fun",
+			"boxState": "normal",
+			"speed": 0.03,
+			"portrait": "ayko-idle"
+		},
+		{
+			"expression": "talk",
+			"text": "But i'm still scared for this hole",
+			"boxState": "normal",
+			"speed": 0.03,
+			"portrait": "ayko-dot"
+		},
+		{
+			"expression": "ok",
+			"text": "okay then, i'll cover it with nightstand... and we can continue.",
+			"boxState": "normal",
+			"speed": 0.05,
+			"portrait": "ayko-idle"
+		},
+		{
+			"expression": "talk",
+			"text": "beep",
+			"boxState": "normal",
+			"speed": 0.05,
+			"portrait": "bf-happi"
+		},
+		{
+			"expression": "worry",
+			"text": "I...",
+			"boxState": "normal",
+			"speed": 0.12,
+			"portrait": "ayko-what"
+		},
+		{
+			"speed": 0.03,
+			"portrait": "ayko-what",
+			"boxState": "normal",
+			"expression": "talk",
+			"text": "Don't know what you said."
+		}
+	]
+}

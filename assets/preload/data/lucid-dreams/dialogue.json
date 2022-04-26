@@ -1,0 +1,53 @@
+{
+	"dialogue": [
+		{
+			"expression": "what",
+			"text": "Oh god who are you?",
+			"boxState": "normal",
+			"speed": 0.03,
+			"portrait": "ayko-who"
+		},
+		{
+			"expression": "talk",
+			"text": "beep",
+			"boxState": "normal",
+			"speed": 0.05,
+			"portrait": "bf-idle"
+		},
+		{
+			"expression": "worry",
+			"text": "Oh no IKE will kill me for this hole",
+			"boxState": "normal",
+			"speed": 0.03,
+			"portrait": "ayko-fuck"
+		},
+		{
+			"expression": "ok",
+			"text": "Well....",
+			"boxState": "normal",
+			"speed": 0.065,
+			"portrait": "ayko-dot"
+		},
+		{
+			"expression": "happy",
+			"text": "I see you have a microphone!",
+			"boxState": "normal",
+			"speed": 0.03,
+			"portrait": "ayko-idle"
+		},
+		{
+			"expression": "happy",
+			"text": "Before IKE comes, we can have some fun",
+			"boxState": "normal",
+			"speed": 0.03,
+			"portrait": "ayko-idle"
+		},
+		{
+			"expression": "idle",
+			"text": "bap",
+			"boxState": "normal",
+			"speed": 0.05,
+			"portrait": "bf-idle"
+		}
+	]
+}

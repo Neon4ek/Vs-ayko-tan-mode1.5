@@ -1,0 +1,50 @@
+{
+	"dialogue_pos": "left",
+	"position": [
+		-10,
+		-130
+	],
+	"scale": 1,
+	"animations": [
+		{
+			"loop_name": "d_gf idle",
+			"idle_offsets": [
+				0,
+				0
+			],
+			"idle_name": "d_gf idle",
+			"anim": "idle",
+			"loop_offsets": [
+				0,
+				1
+			]
+		},
+		{
+			"loop_name": "d_gf happi",
+			"idle_offsets": [
+				0,
+				0
+			],
+			"idle_name": "d_gf happi",
+			"anim": "happi",
+			"loop_offsets": [
+				0,
+				0
+			]
+		},
+		{
+			"loop_name": "d_gf huh",
+			"idle_offsets": [
+				0,
+				0
+			],
+			"idle_name": "d_gf huh",
+			"anim": "huh",
+			"loop_offsets": [
+				0,
+				0
+			]
+		}
+	],
+	"image": "d_gf"
+}

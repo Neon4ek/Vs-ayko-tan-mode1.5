@@ -1,0 +1,74 @@
+{
+	"dialogue": [
+		{
+			"expression": "talk",
+			"text": "What's going on here?",
+			"boxState": "angry",
+			"speed": 0.02,
+			"portrait": "ike"
+		},
+		{
+			"speed": 0.065,
+			"portrait": "ayko-fuck",
+			"boxState": "normal",
+			"expression": "talk",
+			"text": "Oh fuck...."
+		},
+		{
+			"expression": "idle",
+			"text": "Listen, let me explain....",
+			"boxState": "normal",
+			"speed": 0.025,
+			"portrait": "ayko-who"
+		},
+		{
+			"expression": "worry",
+			"text": "You see it's....",
+			"boxState": "normal",
+			"speed": 0.03,
+			"portrait": "ayko-who"
+		},
+		{
+			"expression": "talk",
+			"text": "Fuck this is boyfriend.xml from Friday Night Funckin!",
+			"boxState": "angry",
+			"speed": 0.02,
+			"portrait": "ike"
+		},
+		{
+			"expression": "talk",
+			"text": "bap-",
+			"boxState": "normal",
+			"speed": 0.05,
+			"portrait": "bf-miss"
+		},
+		{
+			"expression": "talk",
+			"text": "And where did you get my microphone from?",
+			"boxState": "normal",
+			"speed": 0.015,
+			"portrait": "ike"
+		},
+		{
+			"expression": "talk",
+			"text": "GIVE IT BACK!",
+			"boxState": "angry",
+			"speed": 0.01,
+			"portrait": "ike"
+		},
+		{
+			"speed": 0.05,
+			"portrait": "bf-miss",
+			"boxState": "normal",
+			"expression": "talk",
+			"text": "skeedopi ba boop"
+		},
+		{
+			"speed": 0.035,
+			"portrait": "ayko-dot",
+			"boxState": "normal",
+			"expression": "talk",
+			"text": "yeah, yeah good talk...."
+		}
+	]
+}

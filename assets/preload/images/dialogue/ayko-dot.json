@@ -1,0 +1,24 @@
+{
+	"dialogue_pos": "left",
+	"position": [
+		-50,
+		-130
+	],
+	"scale": 1,
+	"animations": [
+		{
+			"loop_name": "ayko-dot idle",
+			"idle_offsets": [
+				0,
+				0
+			],
+			"idle_name": "ayko-dot idle",
+			"anim": "idle",
+			"loop_offsets": [
+				0,
+				0
+			]
+		}
+	],
+	"image": "ayko-dot"
+}

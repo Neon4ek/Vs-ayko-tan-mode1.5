@@ -1,0 +1,78 @@
+{
+	"animations": [
+		{
+			"loop": true,
+			"offsets": [
+				0,
+				240
+			],
+			"anim": "idle",
+			"fps": 10,
+			"name": "ikeAG idle",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				0,
+				240
+			],
+			"anim": "singUP",
+			"fps": 24,
+			"name": "ikeAG up",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				0,
+				240
+			],
+			"anim": "singDOWN",
+			"fps": 24,
+			"name": "ikeAG down",
+			"indices": []
+		},
+		{
+			"offsets": [
+				0,
+				240
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singLEFT",
+			"indices": [],
+			"name": "ikeAG right"
+		},
+		{
+			"offsets": [
+				0,
+				240
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singRIGHT",
+			"indices": [],
+			"name": "ikeAG left"
+		}
+	],
+	"no_antialiasing": false,
+	"image": "characters/ikeAG",
+	"position": [
+		-70,
+		70
+	],
+	"healthicon": "ike",
+	"flip_x": false,
+	"healthbar_colors": [
+		62,
+		37,
+		239
+	],
+	"camera_position": [
+		-110,
+		-50
+	],
+	"sing_duration": 6.1,
+	"scale": 0.7
+}

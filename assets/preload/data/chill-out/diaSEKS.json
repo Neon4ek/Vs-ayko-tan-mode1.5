@@ -1,0 +1,19 @@
+//NOT FUCKING WORK
+{
+	"dialogue": [
+		{
+			"speed": 0.005,
+			"portrait": "d_gf",
+			"boxState": "nonskippable",
+			"expression": "d_gf happi",
+			"text": "great job!"
+		},
+		{
+			"speed": 0.005,
+			"portrait": "d_gf",
+			"boxState": "nonskippable",
+			"expression": "d_gf idle",
+			"text": " now. can you go and get my mail please?"
+		}
+	]
+}
